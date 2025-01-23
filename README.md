@@ -1,9 +1,8 @@
-## Hi there 👋
-I'm amir atia!
+Ahla, I am Amir!
 
-
-- 🔭 I’m currently working on toy programming language
-- 🌱 I’m currently learning compiler design
-- 💬 Ask me about about anything you want
-- 📫 How to reach me: <a href="https://discord.gg/BxkFpvpbnM"><img src="https://img.shields.io/discord/1280246470531878984?logo=discord"></a>
-- 😄 Pronouns: he/him
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AmeerAtia&show_icons=true&theme=catppuccin_mocha&card_width=320" alt="Amir's GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerAtia&show_icons=true&theme=catppuccin_mocha&layout=compact&card_width=320" alt="Amir's Top Languages" />
+</a>
